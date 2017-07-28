@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Antic);
+@import url(https://fonts.googleapis.com/css?family=Righteous);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
+
+* {
+	box-sizing: border-box;
+	background-color: #74BFE0;
+	color: white;
+}
+body {
+	text-align: center;
+}
+h1 {
+	font-family: "Righteous", sans-serif;
+	margin-top: 100px;
+	margin-bottom: 120px;
+	font-size: 40px;
+}
+h2, h3 {
+	font-family: "Antic", sans-serif;
+	padding-bottom: 30px;
+}
+.trigger {
+	list-style-type: none;
+	border: 1px white solid;
+	padding: 10px 100px;
+	border-radius: 5px;
+	margin: 10px 0;
+}
+.tweet {
+	list-style-type: none;
+	text-decoration: none;
+	border: 1px white solid;
+	padding: 10px 110px;
+	border-radius: 5px;
+	margin: 20px 0;
+}
+.click {
+	margin: 10px 0;
+}
+.link {
+	margin-top: 40px;
+}
+.fa {
+	padding-right: 10px;
+}
